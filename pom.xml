@@ -136,7 +136,9 @@
                     <scanIntervalSeconds>10</scanIntervalSeconds>
                     <webApp>
                         <contextPath>/</contextPath>
-                    </webApp>
+			</webApp>
+                </configuration>
+		<configuration>
                    <bnd><![CDATA[
        		       Import-Package: 
             	       javax.annotation;version=0.0.0,
